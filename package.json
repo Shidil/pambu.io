@@ -32,7 +32,11 @@
   "license": "MIT",
   "dependencies": {
     "immutable": "^3.8.1",
-    "socket.io": "1.6.0"
+    "js-2dmath": "^0.1.1",
+    "randomstring": "^1.1.5",
+    "simple-hashtable": "^0.1.3",
+    "socket.io": "1.6.0",
+    "ws": "^1.1.1"
   },
   "devDependencies": {
     "babel-cli": "6.18.0",
